@@ -1,0 +1,23 @@
+{
+  "name": "class",
+  "version": "0.0.1",
+  "description": "my test app for NWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaojorgem/Class.git"
+  },
+  "author": "Joao Jorge Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaojorgem/Class/issues"
+  },
+  "homepage": "https://github.com/joaojorgem/Class#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
